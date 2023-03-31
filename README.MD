@@ -13,3 +13,23 @@ The main goal is create a website with my professional information.
 - Dom manipulation
 - Events
 - Css Media Query
+
+## Instructions to run:
+
+1. Clone the project:
+
+```
+git clone https://github.com/DiogoPaess/site-portif-lio.git
+```
+
+2. After clone open the folder:
+
+```
+site-portifolio
+```
+
+3. Open the index file with the browser:
+
+```
+index.html
+```

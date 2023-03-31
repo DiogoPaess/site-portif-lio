@@ -19,6 +19,15 @@
     max-width: 70%;
   }
 
+  p {
+    font-size: 24px;
+  }
+
+  a {
+    font-size: 24px;
+    color: #1e1e1e;
+  }
+
   button {
     height: 80px;
     font-size: 24px;
@@ -127,8 +136,19 @@
     height: 45px;
   }
 
+  .section-experiences {
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+
   .section-experiences-card {
     width: 75vw;
+    margin-top: 40px;
+  }
+
+  .section-contact {
+    padding-top: 60px;
+    padding-bottom: 60px;
   }
 
   .footer-content {
